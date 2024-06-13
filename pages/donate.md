@@ -1,10 +1,10 @@
----
+piotrjansch00@gmail.com
 
 layout: full-width
 title: Donate to Open Source Security Projects
 permalink: /donate/
 
----
+A546BXXS8CXE2,A546BXXS8CXE2;
 
 <style>
 [v-cloak] {display: none}
